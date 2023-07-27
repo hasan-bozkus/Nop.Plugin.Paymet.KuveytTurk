@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "KuveytTurk",
+  "SystemName": "Payment.KuveytTurk",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.10", "4.20", "4.30", "4.40", "4.50", "4.60" ],
+  "Author": "bozkus team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payment.KuveytTurk.dll",
+  "Description": "Bu eklenti, KuveytTurk modülünü kullanarak ödeme yapmanızı sağlar."
+}

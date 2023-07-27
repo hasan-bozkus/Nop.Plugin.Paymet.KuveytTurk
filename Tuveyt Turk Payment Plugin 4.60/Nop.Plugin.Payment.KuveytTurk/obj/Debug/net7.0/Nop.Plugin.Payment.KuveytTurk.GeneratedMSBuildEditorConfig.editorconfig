@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Nop.Plugin.Payment.KuveytTurk
+build_property.ProjectDir = C:\Users\HASAN\Desktop\nopCommerce_4.60.2_Source\src\hasanbozkus\Nop.Plugin.Payment.KuveytTurk\

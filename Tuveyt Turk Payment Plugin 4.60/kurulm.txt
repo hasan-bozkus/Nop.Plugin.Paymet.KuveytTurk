@@ -1,0 +1,1 @@
+Yönetci Panlelinda Yapılandırma menüsündeki Yerel eklentiler sekmesine tıkladığımızda karşımıza çıkan ekrande Eklente veya Temayı Yükle butonuna basyıoruz. Burada Payment.KuveytTurk.zip dosyasını yükleyeceksiniz.
